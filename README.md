@@ -1,5 +1,6 @@
 # youtube-unfollow-script
 
+```
 var unsubscribed = 0;
 
 var myVar = setInterval(myTimer, 3000);
@@ -27,3 +28,4 @@ function myTimer() {
     }, 1500);
   }
 }
+```
